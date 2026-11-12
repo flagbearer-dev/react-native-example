@@ -3,7 +3,7 @@
 A small Expo app with one feature flag from
 [Flagbearer](https://flagbearer.dev). The cart screen shows the current
 checkout until you turn on the `new-checkout` flag. Then it switches to a
-one-step checkout, with no new build and no restart.
+one-step checkout within seconds, with no new build and no restart.
 
 ## Run it
 
