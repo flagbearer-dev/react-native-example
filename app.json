@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "stream-check",
-    "slug": "stream-check",
+    "name": "Flagbearer example",
+    "slug": "flagbearer-react-native-example",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
